@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 👯 I’m looking to collaborate on AI
+### 📫 How to reach me: wiflores24@gmail.com
 
 <!--
 **Wilder-wfo/Wilder-wfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
